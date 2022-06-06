@@ -1,0 +1,283 @@
+VERSION ""
+
+
+BS_:
+
+BU_:
+
+
+BO_ 577 accu_signal_2: 8 Vector__XXX
+ SG_ AMS_OK : 45|1@1- (1,0) [0|1] "" Vector__XXX
+ SG_ SDC_closed : 43|1@1- (1,0) [0|1] "" Vector__XXX
+
+BO_ 576 accu_signal_1: 8 Vector__XXX
+ SG_ min_cv : 23|16@0+ (0.0001,0) [0|6.5535] "V" Vector__XXX
+ SG_ max_cv : 7|16@0+ (0.0001,0) [0|6.5535] "V" Vector__XXX
+
+BO_ 578 accu_signal_3: 8 Vector__XXX
+ SG_ i_high : 55|16@0- (0.04577,0) [-1499.79|1499.75] "A" Vector__XXX
+ SG_ i_low : 39|16@0- (0.004577,0) [-149.979|149.975] "A" Vector__XXX
+
+BO_ 512 cv1: 8 Vector__XXX
+ SG_ cv1_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv1_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv1_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv1_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv1_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv1_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv1_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv1_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 513 cv2: 8 Vector__XXX
+ SG_ cv2_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv2_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv2_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv2_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv2_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv2_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv2_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv2_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 514 cv3: 8 Vector__XXX
+ SG_ cv3_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv3_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv3_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv3_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv3_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv3_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv3_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv3_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 515 cv4: 8 Vector__XXX
+ SG_ cv4_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv4_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv4_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv4_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv4_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv4_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv4_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv4_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 516 cv5: 8 Vector__XXX
+ SG_ cv5_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv5_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv5_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv5_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv5_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv5_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv5_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv5_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 517 cv6: 8 Vector__XXX
+ SG_ cv6_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv6_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv6_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv6_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv6_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv6_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv6_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv6_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 518 cv7: 8 Vector__XXX
+ SG_ cv7_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv7_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv7_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv7_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv7_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv7_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv7_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv7_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 519 cv8: 8 Vector__XXX
+ SG_ cv8_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv8_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv8_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv8_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv8_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv8_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv8_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv8_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 520 cv9: 8 Vector__XXX
+ SG_ cv9_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv9_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv9_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv9_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv9_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv9_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv9_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv9_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 521 cv10: 8 Vector__XXX
+ SG_ cv10_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv10_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv10_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv10_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv10_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv10_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv10_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv10_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 522 cv11: 8 Vector__XXX
+ SG_ cv11_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv11_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv11_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv11_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv11_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv11_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv11_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv11_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 523 cv12: 8 Vector__XXX
+ SG_ cv12_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv12_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv12_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv12_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv12_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv12_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv12_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv12_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 524 cv13: 8 Vector__XXX
+ SG_ cv13_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv13_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv13_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv13_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv13_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv13_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv13_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv13_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 525 cv14: 8 Vector__XXX
+ SG_ cv14_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv14_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv14_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv14_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv14_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv14_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv14_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv14_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 526 cv15: 8 Vector__XXX
+ SG_ cv15_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv15_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv15_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv15_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv15_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv15_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv15_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv15_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 527 cv16: 8 Vector__XXX
+ SG_ cv16_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv16_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv16_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv16_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv16_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv16_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv16_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv16_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 528 cv17: 8 Vector__XXX
+ SG_ cv17_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv17_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv17_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv17_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv17_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv17_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv17_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv17_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 529 cv18: 8 Vector__XXX
+ SG_ cv18_8 : 56|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv18_7 : 48|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv18_6 : 40|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv18_5 : 32|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv18_4 : 24|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv18_3 : 16|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv18_2 : 8|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+ SG_ cv18_1 : 0|8@1+ (0.011765,2) [2|5.00008] "V" Vector__XXX
+
+BO_ 544 temp1: 8 Vector__XXX
+ SG_ ct1_8 : 56|1@1- (1,0) [0|1] "C" Vector__XXX
+ SG_ ct1_7 : 48|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct1_6 : 40|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct1_5 : 32|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct1_4 : 24|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct1_3 : 16|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct1_2 : 8|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct1_1 : 0|8@1+ (1,0) [0|255] "C" Vector__XXX
+
+BO_ 545 temp2: 8 Vector__XXX
+ SG_ ct2_8 : 56|1@1- (1,0) [0|1] "C" Vector__XXX
+ SG_ ct2_7 : 48|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct2_6 : 40|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct2_5 : 32|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct2_4 : 24|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct2_3 : 16|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct2_2 : 8|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct2_1 : 0|8@1+ (1,0) [0|255] "C" Vector__XXX
+
+BO_ 546 temp3: 8 Vector__XXX
+ SG_ ct3_8 : 56|1@1- (1,0) [0|1] "C" Vector__XXX
+ SG_ ct3_7 : 48|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct3_6 : 40|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct3_5 : 32|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct3_4 : 24|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct3_3 : 16|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct3_2 : 8|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct3_1 : 0|8@1+ (1,0) [0|255] "C" Vector__XXX
+
+BO_ 547 temp4: 8 Vector__XXX
+ SG_ ct4_8 : 56|1@1- (1,0) [0|1] "C" Vector__XXX
+ SG_ ct4_7 : 48|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct4_6 : 40|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct4_5 : 32|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct4_4 : 24|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct4_3 : 16|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct4_2 : 8|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct4_1 : 0|8@1+ (1,0) [0|255] "C" Vector__XXX
+
+BO_ 548 temp5: 8 Vector__XXX
+ SG_ ct5_8 : 56|1@1- (1,0) [0|1] "C" Vector__XXX
+ SG_ ct5_7 : 48|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct5_6 : 40|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct5_5 : 32|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct5_4 : 24|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct5_3 : 16|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct5_2 : 8|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct5_1 : 0|8@1+ (1,0) [0|255] "C" Vector__XXX
+
+BO_ 549 temp6: 8 Vector__XXX
+ SG_ ct6_8 : 56|1@1- (1,0) [0|1] "C" Vector__XXX
+ SG_ ct6_7 : 48|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct6_6 : 40|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct6_5 : 32|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct6_4 : 24|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct6_3 : 16|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct6_2 : 8|8@1+ (1,0) [0|255] "C" Vector__XXX
+ SG_ ct6_1 : 0|8@1+ (1,0) [0|255] "C" Vector__XXX
+
+BO_ 282 bs_status: 1 Vector__XXX
+ SG_ status : 0|8@1+ (1,0) [0|255] "" Vector__XXX
+
+BO_ 314 bs_acdc_actual: 4 Vector__XXX
+ SG_ iActual : 16|16@1+ (0.003906,0) [0|255.98] "A" Vector__XXX
+ SG_ uActual : 0|16@1+ (0.015625,0) [0|1023.98] "V" Vector__XXX
+
+BO_ 298 bs_acdc_target: 4 Vector__XXX
+ SG_ iTarget : 16|16@1+ (0.003906,0) [0|255.98] "A" Vector__XXX
+ SG_ uTarget : 0|16@1+ (0.015625,0) [0|0.015625] "V" Vector__XXX
+
+BO_ 266 bs_ctrl: 1 Vector__XXX
+ SG_ enable : 0|8@1+ (1,0) [0|2] "" Vector__XXX
+
+BO_ 769 accu_ctrl: 8 Vector__XXX
+ SG_ anti_timeout : 8|8@1+ (1,0) [0|128] "" Vector__XXX
+
+BO_ 770 accu_busspeed: 8 Vector__XXX
+ SG_ change_busspeed : 0|8@1+ (1,0) [0|128] "" Vector__XXX
+
+
+
+
